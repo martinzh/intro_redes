@@ -1,2 +1,2 @@
 # intro_redes
-Notebook con código de introducción a redes con NetworX y Python.
+Notebook con código de introducción a redes con NetworkX y Python.
